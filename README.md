@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aliyu Kamal
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
