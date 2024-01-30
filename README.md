@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alkamal" /> </p>
 
-- 👨‍💻 More about me on my personal website: [alejandro-ao.com](https://alejandro-ao.com/)
+- 👨‍💻 More about me on my personal website: [alkamal](https://alejandro-ao.com/)
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@alejandro_ao)
-- 📁 My resume: [alejandro-ao.com/resume](https://alejandro-ao.com/resume/)
+- 📁 My resume: [alkamal/resume](https://alejandro-ao.com/resume/)
 
 
 <h3 align="left">Connect with me:</h3>
