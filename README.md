@@ -1,21 +1,14 @@
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace;">Hello World! I'm Aliyu Kamal 👋</h1>
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace;">Your Friendly AI Software Engineer</h3>
+<h1 align="center">Hello World! I'm Aliyu Kamal 👋</h1>
+<h3 align="center">🤖 Your Friendly AI Software Engineer 🚀</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=alkamal01&label=Profile%20views&color=0e75b6&style=flat" alt="alkamal01" />
 </p>
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace;">
-  👨‍💻 Learn more about me on my personal website: 
-  <a href="https://alkamal01.github.io/My_Portpolio/" target="_blank" style="font-family: 'Courier New', Courier, monospace;">alkamal01.github</a>
-</p>
+- 👨‍💻 Learn more about me on my personal website: [alkamal01.github](https://alkamal01.github.io/My_Portpolio/)
+- 📁 My resume: [alkamal01.github/resume](https://alkamal01.github.io/My_Portpolio/resume/)
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace;">
-  📁 My resume: 
-  <a href="https://alkamal01.github.io/My_Portpolio/resume/" target="_blank" style="font-family: 'Courier New', Courier, monospace;">alkamal01.github/resume</a>
-</p>
-
-<h3 align="left" style="font-family: 'Courier New', Courier, monospace;">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/alkamal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkamalo1" height="30" width="40" />
@@ -25,7 +18,7 @@
   </a>
 </p>
 
-<h3 align="left" style="font-family: 'Courier New', Courier, monospace;">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
