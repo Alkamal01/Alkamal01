@@ -5,16 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=alkamal01&label=Profile%20views&color=0e75b6&style=flat" alt="alkamal01" />
 </p>
 
-- 👨‍💻 Learn more about me on my personal website: [alkamal01.github](https://alkamal01.github.io/My_Portpolio/)
-- 📁 My resume: [alkamal01.github/resume](https://alkamal01.github.io/My_Portpolio/resume/)
+- 👨‍💻 Learn more about me on my personal website: [Portpolio Website](https://alkamal01.github.io/My_Portpolio/)
+- 📁 My resume: [Resume](https://alkamal01.github.io/My_Portpolio/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/alkamal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkamalo1" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@alkamal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alkamalo1" height="30" width="40" />
   </a>
 </p>
 
