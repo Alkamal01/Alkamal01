@@ -54,15 +54,15 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
   </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
-  </a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://solana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="solana" width="40" height="40"/>
-  </a>
-  <a href="https://ipfs.tech/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://ipfs.tech/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ipfs/ipfs-original.svg" alt="ipfs" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/>
   </a>
@@ -72,17 +72,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+<!-- <h3 align="left">Featured Projects:</h3> -->
 
-<h3 align="left">Featured Projects:</h3>
-
-- **BlockBallot**: Blockchain-based voting dApp using Solidity, TypeScript, and Hardhat.  
-  [GitHub](https://github.com/Alkamal01/BlockBallot)  
-
-- **NFTopia**: NFT marketplace with ERC-721, IPFS, and React.js.  
-  [GitHub](https://github.com/Alkamal01/NFTopia)  
-
-- **PulseSniper**: Solana MEV bot for Raydium v4 liquidity pools.  
-  [GitHub](https://github.com/Alkamal01/PulseSniper)  
+ 
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
