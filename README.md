@@ -41,5 +41,4 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alkamal01&show_icons=true&theme=dark" alt="alkamal01" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkamal01&theme=dark" alt="alkamal01" />
 </p>
