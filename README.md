@@ -46,9 +46,7 @@ I enjoy turning complex ideas into real, production-ready systems.
 
 ## 📂 Featured Work
 Coming soon:  
-- Rust systems projects  
-- AI/ML models & agentic pipelines  
-- Blockchain apps across ICP, Bitcoin, and EVM  
+
 
 ---
 
