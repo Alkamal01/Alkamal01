@@ -51,8 +51,7 @@ Coming soon:
 ---
 
 ## 🔗 Connect With Me
-- Portfolio: **https://alkamal01.github.io/My_Portpolio**  
-- Resume: **https://alkamal01.github.io/My_Portpolio/resume**  
+- Portfolio: **https://kaftandev.dev**  
 - LinkedIn: **https://linkedin.com/in/alkamal**  
 
 ---
