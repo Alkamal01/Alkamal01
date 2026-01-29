@@ -1,6 +1,14 @@
-# Kamal Aliyu
+<h1 align="center">Hi, I'm Kamal Aliyu</h1>
+<h3 align="center">AI Systems Architect • Rust Engineer • Open Source Contributor</h3>
 
-**AI Systems Architect | Rust Engineer | Open Source Contributor**
+<p align="center">
+  <a href="https://linkedin.com/in/alkamal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaftandev.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 I bridge the gap between high-level AI reasoning and low-level systems performance. My work focuses on building infrastructure that is fast, memory-safe, and capable of production-grade throughput—whether that is an ACID-compliant financial ledger or a real-time RAG pipeline.
 
