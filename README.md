@@ -29,17 +29,26 @@ I bridge the gap between high-level AI reasoning and low-level systems performan
 
 ---
 
-### Selected Projects
+## Featured Projects
 
-**[RustKit](https://github.com/Alkamal01/RustKit)**
-*Enterprise Microservice Standard*
-A production-ready Rust template enforcing Domain-Driven Design (DDD) and Clean Architecture. Designed to standardize backend development for teams migrating from Python/Node.js.
+### **[RustKit](https://github.com/Alkamal01/RustKit)**
+> *Enterprise Microservice Standard*
+> A production-ready Rust template enforcing **Domain-Driven Design (DDD)** and Clean Architecture.
+> - **Stack:** Axum, Tokio, SQLx, OpenTelemetry.
+> - **Why:** Eliminates boilerplate for teams migrating from Python/Node to Rust.
 
-**[Textora](https://github.com/Alkamal01/Textora)**
-*Distributed Search Infrastructure*
-A full-text search engine built on Tantivy. Implements custom scoring and mmap-based indexing for high-throughput environments.
+### **[Textora](https://github.com/Alkamal01/Textora)**
+> *Distributed Search Engine*
+> A full-text search infrastructure built on **Tantivy**.
+> - **Stack:** Rust, Raft Consensus, mmap.
+> - **Why:** Optimized for high-throughput indexing with minimal RAM overhead.
 
-**Bitcoin Rust Contributions**
+### **[Agentic-RAG](https://github.com/Alkamal01)** *(Concept/Demo)*
+> *Autonomous Reasoning Pipeline*
+> A multi-agent system using LangGraph that plans, executes, and verifies tasks.
+> - **Stack:** Python, LangGraph, Vector Search.
+
+### **Bitcoin Rust Contributions**
 Active contributor to the Bitcoin Rust ecosystem, focusing on serialization logic and memory safety in consensus-critical libraries.
 
 ---
