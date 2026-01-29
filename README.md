@@ -43,12 +43,4 @@ A full-text search engine built on Tantivy. Implements custom scoring and mmap-b
 Active contributor to the Bitcoin Rust ecosystem, focusing on serialization logic and memory safety in consensus-critical libraries.
 
 ---
-
-### Connect
-
-- **Portfolio:** [kaftandev.dev](https://kaftandev.dev)
-- **LinkedIn:** [linkedin.com/in/alkamal](https://linkedin.com/in/alkamal)
-- **Email:** kamalaliyu212@gmail.com
-
----
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alkamal01&show_icons=true&theme=buefy&hide_border=true&count_private=true)
