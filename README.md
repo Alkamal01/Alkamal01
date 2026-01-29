@@ -1,59 +1,74 @@
-<h1 align="center">👋 Hi, I'm Aliyu Kamal</h1>
-<h3 align="center">AI/ML Engineer • Rust & Blockchain Developer • Open-Source Builder</h3>
+<h1 align="center">Hi, I'm Kamal Aliyu 👋</h1>
+<h3 align="center">AI Systems Architect • Rust Engineer • Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alkamal01&label=Profile%20views&color=0e75b6&style=flat" />
+  <em>Building the heavy infrastructure that powers intelligent applications.</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alkamal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaftandev.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-I build intelligent systems and high-performance backend tools.  
-My work sits at the intersection of:
 
-- **AI/ML Engineering** — LLMs, NLP, agentic workflows, deep learning  
-- **Rust Development** — async services, blockchain, systems programming  
-- **Blockchain Engineering** — Bitcoin (Rust), ICP (Rust/Motoko), Solidity smart contracts  
-- **Open-Source Contributions** across AI and Rust ecosystems  
+I sit at the intersection of **High-Level AI** and **Low-Level Systems**. 
 
-I enjoy turning complex ideas into real, production-ready systems.
+I don't just write scripts; I architect production-grade engines. My work bridges the gap between Python-based **Agentic Workflows** and high-performance **Rust infrastructure**. Whether it's an ACID-compliant financial ledger or a real-time RAG pipeline, I focus on building systems that are **fast, memory-safe, and capable of scaling**.
 
----
-
-## 🧠 What I Build
-- **Agentic AI systems** for automation, reasoning, and real-time decision making  
-- **Rust backends** with Tokio, Axum, and high-performance async architectures  
-- **Smart contracts** using Rust, Motoko, and Solidity  
-- **ML pipelines** with PyTorch, TensorFlow, FastAPI, and vector search  
-- **Decentralized apps** across ICP, Bitcoin, and EVM networks  
+- 🔭 **Currently Building:** High-assurance fintech rails at **Safro** & Search Infrastructure at **Outsource Global**.
+- 🦀 **Open Source:** Contributing to the **Bitcoin Rust** ecosystem (consensus & serialization).
+- 🧠 **Interests:** Distributed Systems, Agentic Reasoning (LangGraph), Semantic Search.
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+## 🛠️ The Tech Stack
+
+| **The Engine (Systems)** | **The Brain (AI & Data)** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=rust" width="45"/> <br> **Rust** <br> (Tokio, Axum, FFI) | <img src="https://skillicons.dev/icons?i=python" width="45"/> <br> **Python** <br> (LangChain, PyTorch) |
+| <img src="https://skillicons.dev/icons?i=bitcoin" width="45"/> <br> **Bitcoin** <br> (Consensus, Script) | <img src="https://skillicons.dev/icons?i=postgres" width="45"/> <br> **Vector DBs** <br> (Qdrant, pgvector) |
+| <img src="https://skillicons.dev/icons?i=docker" width="45"/> <br> **Infrastructure** <br> (Docker, AWS) | <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> <br> **API** <br> (FastAPI, gRPC) |
+
+---
+
+## 📂 Featured Projects
+
+### 🏗️ **[RustKit](https://github.com/Alkamal01/RustKit)**
+> *Enterprise Microservice Standard*
+> A production-ready Rust template enforcing **Domain-Driven Design (DDD)** and Clean Architecture.
+> - **Stack:** Axum, Tokio, SQLx, OpenTelemetry.
+> - **Why:** Eliminates boilerplate for teams migrating from Python/Node to Rust.
+
+### 🔍 **[Textora](https://github.com/Alkamal01/Textora)**
+> *Distributed Search Engine*
+> A full-text search infrastructure built on **Tantivy**.
+> - **Stack:** Rust, Raft Consensus, mmap.
+> - **Why:** Optimized for high-throughput indexing with minimal RAM overhead.
+
+### 🤖 **[Agentic-RAG](https://github.com/Alkamal01)** *(Concept/Demo)*
+> *Autonomous Reasoning Pipeline*
+> A multi-agent system using LangGraph that plans, executes, and verifies tasks.
+> - **Stack:** Python, LangGraph, Vector Search.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkamal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkamal01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📂 Featured Work
-Coming soon:  
-
-
----
-
-## 🔗 Connect With Me
-- Portfolio: **https://kaftandev.dev**  
-- LinkedIn: **https://linkedin.com/in/alkamal**  
-
----
-
-<p align="center">⚡ Building AI & Rust systems that actually ship.</p>
+<p align="center">
+  Using <b>Rust</b> for the speed, <b>Python</b> for the smarts. <br>
+  Based in Kaduna, Nigeria 🇳🇬
+</p>
